@@ -117,6 +117,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 🙋‍♂️ Author
+## 🙋‍♂️ Author: JayKumar Pravinbhai Mistry
 
 - [Your Name](https://github.com/yourusername)
