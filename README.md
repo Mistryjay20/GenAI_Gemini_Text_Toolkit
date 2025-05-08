@@ -83,7 +83,7 @@ Visit `http://localhost:7860` in your browser.
 ## 📂 Project Structure
 
 ```
-├── app.py              # Main application code
+├── system.py              # Main application code
 ├── requirements.txt    # Python dependencies
 ├── README.md           # Project documentation
 ```
