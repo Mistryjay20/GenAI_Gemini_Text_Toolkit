@@ -70,12 +70,6 @@ Visit `http://localhost:7860` in your browser.
 
 ---
 
-## 🖼️ Interface Preview
-
-> *(Add a screenshot of the running interface here for visual context)*
-
----
-
 ## 🧪 Example Use Cases
 
 - ✨ Summarize meeting notes
@@ -117,6 +111,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 🙋‍♂️ Author: JayKumar Pravinbhai Mistry
+## 🙋‍♂️ Author
 
-- [Your Name](https://github.com/yourusername)
+- [JayKumar Pravinbhai Mistry](https://github.com/Mistryjay20/GenAI_Gemini_Text_Toolkit)
